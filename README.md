@@ -4,6 +4,7 @@ VTPin
 Build
 =====
 
+    mkdir bin/
     make -B vtpin
 
 to only build the vtpin library or
